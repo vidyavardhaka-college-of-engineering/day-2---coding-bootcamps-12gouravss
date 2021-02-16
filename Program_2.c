@@ -8,7 +8,8 @@ int  age = 18;
 float weight = 58.22;
  
 //If you done correct you will get this meessage 
-printf("Good Job..");
-
+printf("your age is %d\n",age);
+printf("your weight is %f\n",weight);
+printf("good job.."),
 return 0;
 }
