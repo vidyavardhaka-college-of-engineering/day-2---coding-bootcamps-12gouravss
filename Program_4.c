@@ -6,6 +6,7 @@
 #include<stdio.h>
 int main()
 {
+  
 //Write your code below FGCGFCGthis line
 int L1 =10;
 int L2 =20;
