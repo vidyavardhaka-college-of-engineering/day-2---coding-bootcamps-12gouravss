@@ -12,6 +12,7 @@ int main()
     int a, b, temp;
 
 
+
     //printf("Value of A:");
     //scanf("%d", &a);
  //printf("Value of B:");
