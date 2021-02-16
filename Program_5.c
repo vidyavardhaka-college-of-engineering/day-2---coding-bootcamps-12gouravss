@@ -10,9 +10,22 @@
 int main()
 {
     int a, b, temp;
+
+
+    //printf("Value of A:");
+    //scanf("%d", &a);
+ //printf("Value of B:");
+    //scanf("%d", &b);
+
     scanf("%d%d", &a, &b);
 
+    printf("%d %d\n", a, b);
+  
     //Write your code here
+    temp =a;
+    a=b;
+    b=temp;
+
     
     
 
